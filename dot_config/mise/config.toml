@@ -1,3 +1,6 @@
 [tools]
 bat = "latest"
 chezmoi = "latest"
+fgf = "latest"
+lsd = "latest"
+ripgrep = "latest"
