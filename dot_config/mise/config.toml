@@ -1,6 +1,6 @@
 [tools]
 bat = "latest"
 chezmoi = "latest"
-fgf = "latest"
+fzf = "latest"
 lsd = "latest"
 ripgrep = "latest"
